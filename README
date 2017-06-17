@@ -1,0 +1,8 @@
+steps including to bulid python from source are
+1.unzip the .tgz file using tar command
+2.change the directory
+3.sudo ./configure
+4.sudo make
+5.sudo make test
+6.sudo make install
+7.Type python
